@@ -1,7 +1,23 @@
-<h3 align="center">
-  Welcome to Jinwoong Shin (Roy) 's profile!
+<h3 align="left">
+  Welcome to my page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+## 🧑🏻‍💻 My Info
+<p> I'm Jinwoong Shin(Roy), CS developer from South Korea 🇰🇷, currently living in the states 🇺🇸. </p>
+<p> I major in Computer Science at University of Wisconsin - Madison. 
+  <a href="https://www.wisc.edu/"><img alt="University of Wisconsin" src="https://img.shields.io/badge/University%20of%20Wisconsin-CC0000.svg?&logoColor=white"></a>
+</p>
+<p> I worked as AR/VR developer at Nice Payments Internship.
+  <a href="https://www.nicepayments.co.kr/eng/main/main.html"><img alt="Nice Payments" src="https://img.shields.io/badge/Nice%20Payments-4CAF50.svg?logo=credit-card&logoColor=white"></a>
+</p> 
+<p> I worked as Salesforce and AI developer at Samsung SDS Internship. 
+  <a href="https://www.samsungsds.com/us/index.html"><img alt="Samsung" src="https://img.shields.io/badge/Samsung-1428A0.svg?logo=samsung&logoColor=white"></a>
+</p> 
+
+## 📞 Contact 
+<a href="https://www.linkedin.com/in/jinwoong-shin-37617a253/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/w.0_0.n9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
 
 ## 🛠️ My favorite tools
 
@@ -30,6 +46,8 @@
   <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+
 
 </p>
 
