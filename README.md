@@ -51,6 +51,9 @@
 
 </p>
 
+## My Resume
+<img width="492" alt="Screenshot 2023-09-27 at 1 28 07 AM" src="https://github.com/w0-0n9/w0-0n9/assets/97860391/d98a53a6-f77c-4a48-a4b2-11687ae0aadd">
+
 <!--
 **w0-0n9/w0-0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
