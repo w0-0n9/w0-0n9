@@ -49,10 +49,12 @@
   <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=google-cloud&logoColor=white"></a>
 
 
+
 </p>
 
 ## My Resume
-<img width="492" alt="Screenshot 2023-09-27 at 1 28 07 AM" src="https://github.com/w0-0n9/w0-0n9/assets/97860391/d98a53a6-f77c-4a48-a4b2-11687ae0aadd">
+<img width="569" alt="Screenshot 2024-02-27 at 10 41 44 PM" src="https://github.com/w0-0n9/w0-0n9/assets/97860391/5c8c3303-46e8-48c6-864a-0a91deb6d75e">
+
 
 <!--
 **w0-0n9/w0-0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
