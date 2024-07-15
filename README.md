@@ -53,7 +53,6 @@
 </p>
 
 ## My Resume
-<img width="569" alt="Screenshot 2024-02-27 at 10 41 44 PM" src="https://github.com/w0-0n9/w0-0n9/assets/97860391/5c8c3303-46e8-48c6-864a-0a91deb6d75e">
 
 
 <!--
