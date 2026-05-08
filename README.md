@@ -1,71 +1,97 @@
-<h3 align="left">
-  Welcome to my page!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# Hi, I'm Jinwoong 👋
 
-## 🧑🏻‍💻 My Info
-<p> I'm Jinwoong Shin(Roy), CS developer from South Korea 🇰🇷, currently living in the states 🇺🇸. </p>
-<p> I major in Computer Science at University of Wisconsin - Madison. 
-  <a href="https://www.wisc.edu/"><img alt="University of Wisconsin" src="https://img.shields.io/badge/University%20of%20Wisconsin-CC0000.svg?&logoColor=white"></a>
-</p>
-<p> I worked as AR/VR developer at Nice Payments Internship.
-  <a href="https://www.nicepayments.co.kr/eng/main/main.html"><img alt="Nice Payments" src="https://img.shields.io/badge/Nice%20Payments-4CAF50.svg?logo=credit-card&logoColor=white"></a>
-</p> 
-<p> I worked as Salesforce and AI developer at Samsung SDS Internship. 
-  <a href="https://www.samsungsds.com/us/index.html"><img alt="Samsung" src="https://img.shields.io/badge/Samsung-1428A0.svg?logo=samsung&logoColor=white"></a>
-</p> 
+### LLM Engineer at LG CNS America | Building enterprise GenAI across cloud + on-prem stacks
 
-## 📞 Contact 
-<a href="https://www.linkedin.com/in/jinwoong-shin-37617a253/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/w.0_0.n9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
+I work on production GenAI systems for enterprise analytics — multi-agent architectures, RAG pipelines, on-premises SLM deployment, and the data engineering that connects them. Currently shipping LLM-powered solutions driving measurable business impact at LG Electronics.
 
-## 🛠️ My favorite tools
+🌐 [Portfolio](https://jinwoong-shin-portfolio.web.app) · 💼 [LinkedIn](https://linkedin.com/in/w0-0n9) · 📧 jinwoong7116@gmail.com · 📍 Little Ferry, NJ
 
-### 👨‍💻 Programming languages
-<p>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-</p>
+---
 
-### 💻 Software and tools
+## 🎯 What I'm Building
 
-<p>
-  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white"></a>
-  <a href="#"><img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?logo=salesforce&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-  <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+### 🔄 Return Reason Analysis AX
+LLM-powered pipeline summarizing and classifying **230K+ annual return records** across LG Electronics' retail (The Home Depot) and direct-to-consumer (LG.com) channels — contributing to **~2% reduction (~$1.6M est.) in product return rate**.
 
+- ⚙️ Production pipeline orchestrated by **Cloud Composer (managed Airflow on GKE)**
+- 🔗 SQL-driven integration across **OLAP cubes, enterprise data lake, retail partner portal crawler**
+- 🏠 On-premises migration: Gemini 2.5 Flash → **Gemma 4 on Apple Silicon (Mac Studio)**, achieving **91% accuracy parity** to cloud baseline
+- 🧪 Benchmarked **Gemma 4 vs Qwen 3.5** across **Ollama and MLX** serving frameworks
 
+### 🤖 Contact Center AI Platform
+Enterprise contact center AI platform serving **23 agents handling ~11K monthly calls** — deployed in **2 months, 150% faster than industry baseline**.
 
-</p>
+- 🧠 **Adaptive RAG (ReAct-based modular) multi-agent architecture**
+- 🎙️ Real-time call transcription (AWS Connect STT) integrated with **Salesforce Agentforce**
+- 📚 Knowledge ingestion pipeline processing **2,082 documents (12.4GB)** into Salesforce Data Cloud, secured by Trust Layer
+- 📱 Multi-channel: Web, iMessage, Salesforce App, WhatsApp
 
-## My Resume
+---
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+**AI / ML**
+
+![RAG](https://img.shields.io/badge/-RAG-1E88E5?style=flat)
+![Multi-Agent](https://img.shields.io/badge/-Multi--Agent_Systems-FF6F00?style=flat)
+![Model Evaluation](https://img.shields.io/badge/-Model_Evaluation-7B1FA2?style=flat)
+![On--Prem LLM](https://img.shields.io/badge/-On--Prem_LLM_Serving-2E7D32?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-D81B60?style=flat)
+
+**Cloud & Platforms**
+
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/-Cloud_Composer-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/-Apple_Silicon-000000?style=flat&logo=apple&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![MLX](https://img.shields.io/badge/-MLX-000000?style=flat&logo=apple&logoColor=white)
+
+---
+
+## 📈 Highlights
+
+| Metric | Value |
+|--------|-------|
+| Annual records processed | **230K+** |
+| Cloud-to-SLM accuracy parity | **91%** |
+| Product return rate reduction | **~2% (~$1.6M est.)** |
+| Contact center monthly calls | **~11K** |
+| Platform deployment speed | **2 months (150% faster)** |
+| Knowledge base scale | **2,082 docs / 12.4GB** |
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.S. Computer Science**, University of Wisconsin–Madison · May 2024 · GPA 3.55 / 4.00
+- 📜 **AWS Certified AI Practitioner** — Amazon Web Services · Feb 2026
+- 📜 **Foundry & AIP Builder Foundations** — Palantir Technologies · Dec 2025
+
+---
+
+## 📫 Let's Connect
+
+Always open to conversations about **LLM engineering**, **multi-agent systems**, **on-premises GenAI deployment**, or **enterprise AI architecture**.
+
+- 🌐 Portfolio: [jinwoong-shin-portfolio.web.app](https://jinwoong-shin-portfolio.web.app)
+- 💼 LinkedIn: [linkedin.com/in/w0-0n9](https://linkedin.com/in/w0-0n9)
+- 📧 Email: jinwoong7116@gmail.com
 
 <!--
-**w0-0n9/w0-0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Optional: Add GitHub stats cards once you confirm your GitHub username.
+Replace YOUR_USERNAME below with your actual handle.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Jinwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 -->
